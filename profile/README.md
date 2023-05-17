@@ -1,2 +1,2 @@
 ## Scalable Vector Graphics Group
-Essa organização desenvolve projetos envolvendo SVG. 😎
+  Essa organização desenvolvemos projetos envolvendo parcialmente/totalmente SVG. 😎
